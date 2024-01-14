@@ -26,7 +26,7 @@ export default function Questions() {
   ];
 
   return (
-    <div className="min-h-[70vh] md:min-h-[100vh] bg-[#1f2e40] text-white font-[Poppins] ">
+    <div className="min-h-[80vh] md:min-h-[100vh] bg-[#1f2e40] text-white font-[Poppins] ">
       <h1 className="text-3xl font-bold text-center p-5">
         Frequently Asked Questions
       </h1>
