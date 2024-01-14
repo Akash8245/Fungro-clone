@@ -46,7 +46,7 @@ export default function Questions() {
               <p className="text-2xl">{openQuestionIndex === index ? "-" : "+"}</p>
             </div>
             <p
-              className={`p-8 w-[80vw] md:w-[60vw] m-auto text-[13px] md:text-[18px] bg-[#364354] rounded   ${
+              className={`p-8 w-[90vw] md:w-[60vw] m-auto text-[13px] md:text-[18px] bg-[#364354] rounded   ${
                 openQuestionIndex === index ? "" : "hidden"
               } `}
             >
