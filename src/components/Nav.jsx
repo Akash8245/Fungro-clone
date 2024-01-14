@@ -12,7 +12,7 @@ export default function Nav() {
           className="cursor-pointer"
           />
 
-        <ul className="flex text-white space-x-4 text-[12px] md:text-[18px] md:space-x-7 ">
+        <ul className="flex text-white space-x-3 text-[12px] md:text-[18px] md:space-x-7 ">
             <li className="hover:text-[#3EAF68] cursor-pointer">Teen</li>
             <li className="hover:text-[#3EAF68] cursor-pointer">Company</li>
             <li className="hover:text-[#3EAF68] cursor-pointer">Parent</li>
